@@ -77,4 +77,14 @@
   - Add an import log table for diagnostics.
 
 ---
-Generated: December 05, 2025
+Her Links 
+
+[Link](https://www.mercuriusit.com/how-to-connect-to-azure-blob-storage-using-al/)
+
+[Link](https://svirlan.com/export-business-central-online-entities-to-azure-storage-blob-container/)
+
+[Link] (https://www.linkedin.com/pulse/business-central-azure-blob-storage-bert-verbeek)
+
+[Link](https://community.dynamics.com/forums/thread/details/?threadid=d84dd929-1ff8-4ed4-8263-df61bee98156)
+
+
